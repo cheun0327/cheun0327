@@ -22,9 +22,8 @@ Here are some ideas to get you started:
 
 ![trophy](https://github-profile-trophy.vercel.app/?username=cheun0327&theme=monokai&no-bg=true)
 
-<div align=center>
+<!-- <div align=center>
   ⚒ t e c h⚒
-  [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/cheun0327/fullPage)
-  <br>
+
   [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/cheun0327/fullPage) [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/cheun0327/fullPage)
-</div>
+</div> -->
