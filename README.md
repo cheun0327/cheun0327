@@ -14,3 +14,4 @@ Here are some ideas to get you started:
 -->
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheun0327&show_icons=true&theme=radical)
+![trophy](https://github-profile-trophy.vercel.app/?username=cheun0327)
