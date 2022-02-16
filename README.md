@@ -14,18 +14,15 @@ Here are some ideas to get you started:
 -->
 ![header](https://capsule-render.vercel.app/api?type=waving&text=🦋Chae%20Eun🦋&desc=BackEnd%20Developer&descAlignY=29&descAlign=57&fontsize=60&&color=0:e8dcfd,100:100094&height=200)
 
-<div class="box">
-<div class="item">
+
+<div>
 
 ![ChaeEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheun0327&show_icons=true&hide_border=true&count_private=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheun0327&layout=compact&hide_border=true&theme=radical)](https://github.com/cheun0327)
 
 </div>
-</div>
 
 
-<style type='text/css'>
-  [class*="box"] { display: flex; flex-direction: column; }
-</style>
+
 <!--
 ![trophy](https://github-profile-trophy.vercel.app/?username=cheun0327&theme=monokai&no-bg=true) -->
 
