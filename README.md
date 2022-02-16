@@ -72,6 +72,11 @@
   </tbody>
 </table>
   
+  <style>
+.tablelines table, .tablelines td, .tablelines th {
+    border: 1px solid black; padding:10px;
+    }
+</style>
   
 <!--
 ![trophy](https://github-profile-trophy.vercel.app/?username=cheun0327&theme=monokai&no-bg=true) -->
