@@ -34,6 +34,16 @@
  
  </div>
   </div>
+  
+  
+  <table>
+  <tr>
+    <td valign="top"><a href="https://velog.io/@leocodms"><img align="center" src="https://img.shields.io/badge/Velog-20C997?logo=Velog&logoColor=white"/></a></td>
+    <td valign="top"><a href="https://velog.io/@leocodms"><img align="center" src="https://img.shields.io/badge/Velog-20C997?logo=Velog&logoColor=white"/></a></td>
+  </tr>
+</table>
+  
+  
 <!--
 ![trophy](https://github-profile-trophy.vercel.app/?username=cheun0327&theme=monokai&no-bg=true) -->
 
