@@ -21,20 +21,7 @@
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC?style=flat&logo=Vultr&logoColor=white) ![AmazonAWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white)
 
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white) ![VisualStudioCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white) ![VisualStudioCode](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white) 
-  
-  
-[![Badge](https://6ls4aunzapfo.runkit.sh)](https://git.io/gradientbadge)
-<script>
-const gradientBadge = require('gradient-badge');
-exports.endpoint = function (req, resp) {
-    resp.setHeader('Content-Type', 'image/svg+xml');
-    resp.end(gradientBadge({
-        subject: '',
-        status: 'status',
-        gradient: ['b65cff', '11cbfa']
-    }));
-}
-</script>
+ 
   </div>
  
  <div align=right> 
@@ -46,7 +33,6 @@ exports.endpoint = function (req, resp) {
   ![GitHub](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub)
  
  </div>
- 
   </div>
 <!--
 ![trophy](https://github-profile-trophy.vercel.app/?username=cheun0327&theme=monokai&no-bg=true) -->
