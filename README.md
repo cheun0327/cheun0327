@@ -1,16 +1,17 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=🦋Chae%20Eun🦋&fontSize=45&fontAlignY=40&desc=BackEnd%20Developer&descSize=13&descAlign=54.5&descAlignY=22.5&color=0:e8dcfd,100:100094&height=160)
  
- <div align=center> 
+<!--  <div align=center> 
   <a><img src="https://github-readme-stats.vercel.app/api?username=cheun0327&show_icons=true&hide_border=true&count_private=true&theme=radical&no-bg=true"/></a><a><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheun0327&theme=radical&layout=compact&hide_border=true&exclude_repo=Web-Programming,Data-Mining&hide=HTML,CSS&langs_count=10&no-bg=true"/></a>
  </div>
 
- <hr>
+ <hr> -->
  
  <div>
  
  <a><img align="left" src="https://github-readme-stats.vercel.app/api?username=cheun0327&show_icons=true&hide_border=true&count_private=true&theme=radical&no-bg=true"/></a>
- <div> 
  
+ 
+ <div> 
   ### ⚒ t e c h⚒
  
  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
@@ -23,8 +24,8 @@
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC?style=flat&logo=Vultr&logoColor=white) ![AmazonAWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white)
 
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white) ![VisualStudioCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white) ![VisualStudioCode](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white) 
- 
   </div>
+ 
  <a><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheun0327&theme=radical&layout=compact&hide_border=true&exclude_repo=Web-Programming,Data-Mining&hide=HTML,CSS&langs_count=10&no-bg=true"/></a>
  <div> 
  
