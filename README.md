@@ -15,7 +15,6 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&text=🦋Chae%20Eun🦋&fontSize=45&fontAlignY=40&desc=BackEnd%20Developer&descSize=13&descAlign=54.5&descAlignY=22.5&color=0:e8dcfd,100:100094&height=160)
  
-<div aligh="center">
  
   <a><img src="https://github-readme-stats.vercel.app/api?username=cheun0327&show_icons=true&hide_border=true&count_private=true&theme=radical"/></a><a><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheun0327&theme=radical&layout=compact&hide_border=true&exclude_repo=Web-Programming,Data-Mining&hide=HTML,CSS&langs_count=10"/></a>
  ---
@@ -24,7 +23,8 @@ Here are some ideas to get you started:
  
  
    <a href="https://github.com/cheun0327"><img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java"/></a>
-
+<div aligh="center">
+ 
  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white) ![SpringSecurity](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=SpringSecurity&logoColor=white)
 
