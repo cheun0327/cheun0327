@@ -4,7 +4,7 @@
 
  <hr>
  
- <div aligh=center> 
+ <div aligh=left> 
  
   ### ⚒ t e c h⚒
  
