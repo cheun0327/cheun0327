@@ -36,9 +36,9 @@
   </div>
   
   
-  <table style="border-style : none; ">
+  <table style="width: 100%;">
   <tr>
-    <td valign="top">
+    <td style="width=50%;">
      <div> 
  
   ### ⚒ t e c h⚒
@@ -56,7 +56,7 @@
  
   </div>
    </td>
-    <td valign="top">
+    <td style="width=50%;">
      <div> 
  
  ### 💫 m e 
