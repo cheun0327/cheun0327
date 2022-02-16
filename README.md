@@ -21,7 +21,8 @@
 
 ![NGINX](https://img.shields.io/badge/NGINX-009639?style=flat&logo=NGINX&logoColor=white) ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white) ![Vultr](https://img.shields.io/badge/Vultr-007BFC?style=flat&logo=Vultr&logoColor=white) ![AmazonAWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=AmazonAWS&logoColor=white)
 
-![IntelliJIDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white) ![VisualStudioCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white) ![VisualStudioCode](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white) 
+![IntelliJIDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white) ![VisualStudioCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white) ![VisualStudioCode](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white) ![Jupyeter](https://img.shields.io/badge/Jupyeter-F37626?style=flat&logo=Jupyeter&logoColor=white) 
+
   </div>
  
  <div> 
