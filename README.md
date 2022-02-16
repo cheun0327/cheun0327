@@ -7,7 +7,7 @@
  <hr>
  
  <div>
- <div align=left> 
+ <div align=center> 
  
   ### ⚒ t e c h⚒
  
@@ -24,7 +24,7 @@
  
   </div>
  
- <div align=right> 
+ <div align=center> 
  
  ### 💫 m e 
  <a href="https://velog.io/@leocodms"><img align="center" src="https://img.shields.io/badge/Velog-20C997?logo=Velog&logoColor=white"/></a> <a href="mailto:cheun0327@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white"/></a>
