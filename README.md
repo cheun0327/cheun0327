@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
+<div aligh="center">
 ![header](https://capsule-render.vercel.app/api?type=waving&text=🦋Chae%20Eun🦋&fontSize=45&fontAlignY=40&desc=BackEnd%20Developer&descSize=13&descAlign=54.5&descAlignY=22.5&color=0:e8dcfd,100:100094&height=160)
  
  
@@ -33,6 +33,8 @@ Here are some ideas to get you started:
 
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white) ![VisualStudioCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white) ![VisualStudioCode](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white)
  
+ 
+ </div>
 <!--
 ![trophy](https://github-profile-trophy.vercel.app/?username=cheun0327&theme=monokai&no-bg=true) -->
 
