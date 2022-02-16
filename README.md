@@ -6,7 +6,7 @@
 
  <hr>
  
- <div>
+ <div align=center>
  
  <div> 
   
