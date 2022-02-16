@@ -27,7 +27,7 @@
  <div> 
  
  ### 💫 m e 
- <a href="https://velog.io/@leocodms"><img align="center" src="https://img.shields.io/badge/Velog-20C997?logo=Velog&logoColor=white"/></a> <a href="mailto:cheun0327@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white"/></a><a href="https://42seoul.kr/seoul42/main/view"><img align="center" src="https://img.shields.io/badge/42%20Seoul-000000?logo=42&logoColor=white"/></a>
+ <a href="https://velog.io/@leocodms"><img align="center" src="https://img.shields.io/badge/Velog-20C997?logo=Velog&logoColor=white"/></a> <a href="mailto:cheun0327@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white"/></a><a href="https://42seoul.kr/seoul42/main/view"><img align="center" src="https://img.shields.io/badge/42%20Seoul-43484a?logo=42&logoColor=white"/></a>
  
  ### 💌  t o d a y 
   ![GitHub](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub)
