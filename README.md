@@ -37,7 +37,6 @@
   
   
   <table style="border: 0px; width: 100%;">
- <tbody style="border: 0px; width: 100%;">
   <tr>
     <td valign="top" style="width=50%;">
      <div> 
@@ -69,22 +68,26 @@
  </div>
    </td>
   </tr>
-  </tbody>
 </table>
 
-<style>
-td, th {
-   border: none!important;
-}
-</style>  
+
+<div align="center">
   
-<!--
-![trophy](https://github-profile-trophy.vercel.app/?username=cheun0327&theme=monokai&no-bg=true) -->
+<a href="https://suave-lilac-075.notion.site/b1ac3609f8a946c3a1939b5d46211e44?v=cc0f75ec13e54868a33bb57336fb9ee8"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
+  
+  
+  ### 🐣 Seon Dal 🐥 
+  
+  ---
+  
+<a href="https://github.com/seondal"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a> <a href="https://solved.ac/whkakrkr"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=whkakrkr"/></a>
+ 
+<a href="https://velog.io/@seondal"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white"/></a>
+<a href="https://suave-lilac-075.notion.site/SeondAlchive-ec0bc59746804968a085c2cf46151c80"><img src="https://img.shields.io/badge/seondArchilve-ffffff?style=flat-square&logo=notion&logoColor=black"/></a>
+<a href="https://whkakrkr.tistory.com"><img src="https://img.shields.io/badge/seondAlgorithm-E5511E?style=flat-square&logo=Blogger&logoColor=white"/></a> 
+  
 
-<!-- <div align=center>
-  ⚒ t e c h⚒
-
- [![Velog](https://img.shields.io/badge/Velog-20C997?logo=Velog&logoColor=white)](https://velog.io/@leocodms) [![Gmail](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white)](mailto:cheun0327@gmail.com)
-
-  [![html](https://img.shields.io/badge/Html-E34F26?style=flat-square&logo=Html5&logoColor=white)](https://github.com/cheun0327/fullPage) [![css](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)](https://github.com/cheun0327/fullPage)
-</div> -->
+ 
+ <br>
+ 
+</div>
