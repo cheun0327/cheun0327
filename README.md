@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 
 <div align=center>
 
-![ChaeEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheun0327&show_icons=true&count_private=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheun0327&layout=compact&theme=radical)](https://github.com/cheun0327)
+![ChaeEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheun0327&show_icons=true&hide_border=true&count_private=true&theme=radical)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheun0327&layout=compact&hide_border=true&theme=radical)](https://github.com/cheun0327)
 
 </div>
 <!--
