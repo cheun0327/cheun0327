@@ -27,6 +27,13 @@
  
  <div> 
  
+ ### 🌱 going 2 study 🌱
+  ![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat&logo=Elasticsearch&logoColor=white) ![Logstash](https://img.shields.io/badge/Logstash-005571?style=flat&logo=Logstash&logoColor=white) ![ApacheKafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=ApacheKafka&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat&logo=Redis&logoColor=white) ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat&logo=RabbitMQ&logoColor=white)
+ 
+ </div>
+ 
+ <div> 
+ 
  ### 💫 m e 
  <a href="https://velog.io/@leocodms"><img align="center" src="https://img.shields.io/badge/Velog-20C997?logo=Velog&logoColor=white"/></a> <a href="mailto:cheun0327@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white"/></a> <a href="https://42seoul.kr/seoul42/main/view"><img align="center" src="https://img.shields.io/badge/42%20Seoul-36393a?logo=42&logoColor=white"/></a>
  
