@@ -17,7 +17,7 @@ Here are some ideas to get you started:
  
 <div aligh="center">
  
-  <a><img src="https://github-readme-stats.vercel.app/api?username=cheun0327&show_icons=true&hide_border=true&count_private=true&theme=radical"/></a><a><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheun0327&theme=radical&layout=compact&hide_border=true&exclude_repo=Web-Programming"/></a>
+  <a><img src="https://github-readme-stats.vercel.app/api?username=cheun0327&show_icons=true&hide_border=true&count_private=true&theme=radical"/></a><a><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheun0327&theme=radical&layout=compact&hide_border=true&exclude_repo=Web-Programming,Data-Mining&langs_count=10"/></a>
  ---
  
   <a href="https://github.com/cheun0327"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
