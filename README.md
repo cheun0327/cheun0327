@@ -1,20 +1,4 @@
-<!--
-**cheun0327/cheun0327** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ![header](https://capsule-render.vercel.app/api?type=waving&text=🦋Chae%20Eun🦋&fontSize=45&fontAlignY=40&desc=BackEnd%20Developer&descSize=13&descAlign=54.5&descAlignY=22.5&color=0:e8dcfd,100:100094&height=160)
- 
 <div aligh="center"> 
  
   <a><img src="https://github-readme-stats.vercel.app/api?username=cheun0327&show_icons=true&hide_border=true&count_private=true&theme=radical"/></a><a><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheun0327&theme=radical&layout=compact&hide_border=true&exclude_repo=Web-Programming,Data-Mining&hide=HTML,CSS&langs_count=10"/></a>
@@ -23,8 +7,7 @@ Here are some ideas to get you started:
  
   <a href="https://github.com/cheun0327"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false"/></a>
  
- 
-   <a href="https://github.com/cheun0327"><img align="center" src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java"/></a>
+ ![GitHub](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub)
  
  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white) ![SpringSecurity](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=SpringSecurity&logoColor=white)
