@@ -17,9 +17,11 @@ Here are some ideas to get you started:
 
 
 
-![ChaeEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheun0327&show_icons=true&theme=radical)
-<!-- [![ChaeEun's github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=cheun0327&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)](https://github.com/cheun0327)
+![ChaeEun's GitHub stats](https://github-readme-stats.vercel.app/api?username=cheun0327&show_icons=true&count_private=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cheun0327&layout=compact&theme=radical)](https://github.com/cheun0327)
 
+
+<!--
 ![trophy](https://github-profile-trophy.vercel.app/?username=cheun0327&theme=monokai&no-bg=true) -->
 
 <!-- <div align=center>
