@@ -36,7 +36,7 @@
   </div>
   
   
-  <table>
+  <table style="border-style : none; ">
   <tr>
     <td valign="top"><div> 
  
