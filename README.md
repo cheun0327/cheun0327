@@ -73,7 +73,15 @@
 
 <div align="center">
   
-<a href="https://suave-lilac-075.notion.site/b1ac3609f8a946c3a1939b5d46211e44?v=cc0f75ec13e54868a33bb57336fb9ee8"><img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seondal&theme=dracula&exclude_repo=Computer-Science-Engineering&layout=compact&langs_count=10"/></a>
+<div> 
+ 
+ ### 💫 m e 
+ <a href="https://velog.io/@leocodms"><img align="center" src="https://img.shields.io/badge/Velog-20C997?logo=Velog&logoColor=white"/></a> <a href="mailto:cheun0327@gmail.com"><img align="center" src="https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white"/></a>
+ 
+ ### 💌  t o d a y 
+  ![GitHub](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fseondal&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub)
+ 
+ </div>
   
   
   ### 🐣 Seon Dal 🐥 
