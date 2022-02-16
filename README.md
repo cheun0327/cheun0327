@@ -1,6 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=🦋Chae%20Eun🦋&fontSize=45&fontAlignY=40&desc=BackEnd%20Developer&descSize=13&descAlign=54.5&descAlignY=22.5&color=0:e8dcfd,100:100094&height=160)
  
+ <div aligh=center> 
   <a><img src="https://github-readme-stats.vercel.app/api?username=cheun0327&show_icons=true&hide_border=true&count_private=true&theme=radical&no-bg=true"/></a><a><img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cheun0327&theme=radical&layout=compact&hide_border=true&exclude_repo=Web-Programming,Data-Mining&hide=HTML,CSS&langs_count=10&no-bg=true"/></a>
+ </div>
 
  <hr>
  
