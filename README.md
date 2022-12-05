@@ -1,5 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&text=🦋Chae%20Eun🦋&fontSize=45&fontAlignY=40&desc=BackEnd%20Developer&descSize=13&descAlign=54.5&descAlignY=22.5&color=0:e8dcfd,100:100094&height=160)
   
+<div align=center>
   ### ⚒ t e c h⚒
  
  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
