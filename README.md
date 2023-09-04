@@ -2,7 +2,7 @@
 
 <!--
 <div align=center>
-  ### ⚒ t e c h⚒
+### ⚒ t e c h⚒
  
  ![Java](https://img.shields.io/badge/Java-007396?style=flat&logo=Java) ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white) ![SpringBoot](https://img.shields.io/badge/Spring%20Boot-6DB33F?style=flat&logo=SpringBoot&logoColor=white)
 ![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat&logo=Hibernate&logoColor=white) ![SpringSecurity](https://img.shields.io/badge/Spring%20Security-6DB33F?style=flat&logo=SpringSecurity&logoColor=white) ![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=flat&logo=Swagger&logoColor=black)
@@ -16,6 +16,8 @@
 ![IntelliJIDEA](https://img.shields.io/badge/IntelliJ%20IDEA-000000?style=flat&logo=IntelliJIDEA&logoColor=white) ![VisualStudioCode](https://img.shields.io/badge/VSCode-007ACC?style=flat&logo=VisualStudioCode&logoColor=white) ![VisualStudioCode](https://img.shields.io/badge/Eclipse%20IDE-2C2255?style=flat&logo=EclipseIDE&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=Jupyter&logoColor=white) 
 
   </div>
+-->
+
  <div align=center>
 
  <div> 
